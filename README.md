@@ -1,8 +1,7 @@
 # Automatic Irrigation
 A cheap and functional water irrigation system for farmers. It is originally designed for oyster mushroom irrigation but can also be use for other indoor and outdoor crops.
 
-<img src="images/gui1.png" alt="" width="200">
-<img src="images/gui2.png" alt="" width="200">
+<img src="images/gui1.png" alt="" width="300"> <img src="images/gui2.png" alt="" width="300">
 
 ## Features
 1. NodeMCU MQTT server
